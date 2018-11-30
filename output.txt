@@ -1,51 +1,46 @@
 Welcome adventurer, prepare yourself to escape, for you only have 30 turns to do so!
 You find yourself in the Foyer, there is a bench, a chest, an unlit candle, and note. There is also a door to the north, but it is locked. What is your first action?
-note
-The note says, "May my light show you the way."
-You have 29 more turns.
-bench
-There is nothing special about the bench
-You have 28 more turns.
-chest
+open chest
 Inside the chest, you find a box of matches.
-You have 27 more turns.
-candle
+You have 29 more turns.
+get matches
+Probably useful.
+You have 28 more turns.
+light candle
 You light the match, and then the candle. The door to the north is now unlocked!
+You have 27 more turns.
+open door
+Good job... I guess.
 You have 26 more turns.
-You walk into the Library. There is a stack of books, a desk, a pen, a scroll, and another unlocked door to the north.
-desk
-The desk has nothing special about it, other than that it has a pen and a scroll on top of it.
+go north
 You have 25 more turns.
-book
-There is an open book on the shelf titled "The Autobiography of..." with the rest of the title empty
+You walk into the Library. There is a shelf of books, a desk, a pen, a scroll, and another unlocked door to the north.
+get pen
+I didn't know you were THAT poor.
 You have 24 more turns.
-scroll
-The scroll says, "Share your story"
-You have 23 more turns.
-pen
-You pick up the pen
-You have 22 more turns.
-book
+write book
 You take the pen and complete "The Autobiography of..." book by writing your name in the blank space. The door to the north has unlocked!
+You have 23 more turns.
+open door
+I'm so proud of you.
+You have 22 more turns.
+go north
 You have 21 more turns.
 You walk into the Conservatory. There are three instruments, a trumpet, a piano, a drum, a piece of sheet music, and a door to the north.
-piano
-You play the piano.
+play trumpet
+You play the trumpet.
 You have 20 more turns.
-drum
-You play the drum.
-You have 19 more turns.
-trumpet
-You play the trumpet.
-You have 18 more turns.
-trumpet
-You play the trumpet.
-You have 17 more turns.
-piano
+play piano
 You play the piano.
-You have 16 more turns.
-drum
+You have 19 more turns.
+play drum
 You play the drum.
-The door to the outside has opened! You've escaped!
+The door to the outside has opened!
+You have 18 more turns.
+open door
+I've never seen that handle turned quite as good as you just did.
+You have 17 more turns.
+go north
+You've escaped! Finally...
 
 Process finished with exit code 0
